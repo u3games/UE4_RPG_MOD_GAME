@@ -30,7 +30,7 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - [M] Login Menu (Start/Setting/Exit).
 - [M] Loading Screen (image).
 - [M] Equip Character Visual System
-- [M] HUD (Stats, Target, Mini-Map, chat, ..)
+- [I] HUD (Stats, Target, Mini-Map, chat, ..)
 - [M] Chat System Multiplayer.
 - [M] Skill Character System.
 - [M] AI Npc/Mob System.
