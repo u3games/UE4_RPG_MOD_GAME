@@ -2,7 +2,7 @@
 
 Unreal Engine 4 - Modding Sample Game - Type RGP.
 
-![alt tag](http://i.imgur.com/7znNxKK.png)
+![alt tag](http://i.imgur.com/3G21uqA.png)
 
 ## Links:
 
@@ -15,26 +15,22 @@ Chat: https://gitter.im/u3games/UE4_RPG_MOD_GAME<br>
 Unreal Engine 4: https://forums.unrealengine.com (English)<br>
 U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 
-**FEATURES**<br>
+## FEATURES<br>
 
-> Info:
+- HUD Heath Stats.
+- HUD Mini Map.
+- Fall Damage System.
 
-- [I] Implemented in proyect.
-- [T] Need test to commit.
-- [I] Incomplete feature.
-- [D] In development.
-- [M] Missing.
+## TODO<br>
 
-> List:
-
-- [M] Login Menu (Start/Setting/Exit).
-- [M] Loading Screen (image).
-- [M] Equip Character Visual System
-- [I] HUD (Stats, Target, Mini-Map, chat, ..)
-- [M] Chat System Multiplayer.
-- [M] Skill Character System.
-- [M] AI Npc/Mob System.
-- [M] Actions Character System.
-- [M] Pick/Drop/Delete Item System.
-- [M] Inventary System.
+- Login Menu (Start/Setting/Exit).
+- Loading Screen (image).
+- Equip Character Visual System
+- HUD (Stats, Target, Mini-Map, chat, ..)
+- Chat System Multiplayer.
+- Skill Character System.
+- AI Npc/Mob System.
+- Actions Character System.
+- Pick/Drop/Delete Item System.
+- Inventary System.
 
