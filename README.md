@@ -2,7 +2,7 @@
 
 Unreal Engine 4 - Modding Sample Game - Type RGP.
 
-![alt tag](http://i.imgur.com/3G21uqA.png)
+![alt tag](http://i.imgur.com/jmXFXis.png)
 
 ## Links:
 
@@ -20,6 +20,7 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - HUD Heath Stats.
 - HUD Mini Map.
 - Fall Damage System.
+- Chat System Multiplayer.
 
 ## TODO<br>
 
@@ -27,7 +28,6 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - Loading Screen (image).
 - Equip Character Visual System
 - HUD (Stats, Target, Mini-Map, chat, ..)
-- Chat System Multiplayer.
 - Skill Character System.
 - AI Npc/Mob System.
 - Actions Character System.
