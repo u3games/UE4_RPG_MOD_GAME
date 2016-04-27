@@ -21,10 +21,10 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - HUD Mini Map.
 - Fall Damage System.
 - Chat System Multiplayer.
+- Login Menu (Start/Setting/Exit).
 
 ## TODO<br>
 
-- Login Menu (Start/Setting/Exit).
 - Loading Screen (image).
 - Equip Character Visual System
 - HUD (Stats, Target, Mini-Map, chat, ..)
