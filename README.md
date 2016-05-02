@@ -22,6 +22,7 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - Fall Damage System.
 - Chat System Multiplayer.
 - Login Menu (Start/Setting/Exit).
+- Actions Character System.
 
 ## TODO<br>
 
@@ -30,7 +31,6 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - HUD (Stats, Target, Mini-Map, chat, ..)
 - Skill Character System.
 - AI Npc/Mob System.
-- Actions Character System.
 - Pick/Drop/Delete Item System.
 - Inventary System.
 
