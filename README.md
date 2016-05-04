@@ -24,6 +24,7 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - Login Menu (Start/Setting/Exit).
 - Actions Character System.
 - Ai Enemmy System.
+- Damage System.
 
 ## TODO<br>
 
