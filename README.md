@@ -23,6 +23,7 @@ U3Games: http://u3games.united-extreme.com/foro (Spanish)<br>
 - Chat System Multiplayer.
 - Login Menu (Start/Setting/Exit).
 - Actions Character System.
+- Ai Enemmy System.
 - Damage System.
 
 ## TODO<br>
